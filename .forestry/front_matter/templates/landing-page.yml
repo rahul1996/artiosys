@@ -102,5 +102,4 @@ fields:
   hidden: true
   default: home
 pages:
-- home-1.md
 - index.md
