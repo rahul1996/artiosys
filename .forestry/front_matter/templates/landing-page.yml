@@ -84,7 +84,7 @@ fields:
     min: 
     max: 
     labelField: 
-  label: portfolio
+  label: Portfolio
 - type: boolean
   name: show_news
   label: Show News?
