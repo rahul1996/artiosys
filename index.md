@@ -27,6 +27,10 @@ hero_button:
   href: "/about"
 show_news: true
 show_staff: false
+portfolio:
+- title: 'Smart Bike Rental '
+  description: Smart Bike Rental
+  image: "/uploads/2018/12/07/compass.jpg"
 menu:
   navigation:
     identifier: _index
