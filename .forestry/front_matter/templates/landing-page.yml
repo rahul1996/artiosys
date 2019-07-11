@@ -62,6 +62,29 @@ fields:
     default: ''
   hidden: false
   default: ''
+- name: portfolio
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: description
+    type: text
+    config:
+      required: false
+    label: Description
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: Image
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: portfolio
 - type: boolean
   name: show_news
   label: Show News?
