@@ -30,6 +30,19 @@ fields:
   - type: text
     name: icon
     label: icon
+- type: field_group_list
+  name: portfolio
+  label: portfolio
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: description
+    label: description
+  - type: file
+    name: image
+    label: image
 - type: text
   name: sub_heading
   label: sub_heading
@@ -52,16 +65,3 @@ fields:
 - type: boolean
   name: show_staff
   label: show_staff
-- type: field_group_list
-  name: portfolio
-  label: portfolio
-  fields:
-  - type: text
-    name: title
-    label: title
-  - type: text
-    name: description
-    label: description
-  - type: file
-    name: image
-    label: image
