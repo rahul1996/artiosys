@@ -10,7 +10,7 @@ partners:
 services:
 - heading: Dev Ops
   description: ''
-  icon: ''
+  icon: "/uploads/2018/02/17/neurons.jpg"
 - description: ''
   heading: Internet of Things
   icon: ''
